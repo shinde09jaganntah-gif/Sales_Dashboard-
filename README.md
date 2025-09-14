@@ -2,10 +2,10 @@
 This project features an interactive Power BI dashboard built to analyze the sales performance of SNS Industries. It enables dynamic exploration of data across states, customers, product categories, sub-categories, months, and payment modes.
 
 **The dashboard is designed for decision-makers to track key metrics such as:**
-1.Total Sales Amount
-2.Quantity Sold
-3.Profit
-4.Average Order Value (AOV)
+* Total Sales Amount
+* Quantity Sold
+* Profit
+* Average Order Value (AOV)
 
 It also provides visual analysis of:
    * Profit trends by month
@@ -15,11 +15,8 @@ It also provides visual analysis of:
 ⚙️ **Tools & Technologies**
 
 Power BI Desktop
-
 DAX (Data Analysis Expressions)
-
 Power Query
-
 Excel (Data Source)
 
 📌 **Key Features**
