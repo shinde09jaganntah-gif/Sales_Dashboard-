@@ -32,7 +32,7 @@ It also provides visual analysis of:
 * SNS_Sales_Dashboard.pbix – Power BI report file
 * sales_data.xlsx – Sample sales dataset
 * README.md – Project documentation (this file)
-* Dashboard_screenshot.png – Preview image of the dashboard
+* Dashboard_screenshot.png – Preview image of the dashboard(https://github.com/shinde09jaganntah-gif/Sales_Dashboard-/blob/main/Screenshot%20of%20the%20Dashboard.png)
 
 🎯 **Objective**
 
