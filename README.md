@@ -14,25 +14,25 @@ It also provides visual analysis of:
 
 ⚙️ **Tools & Technologies**
 
-Power BI Desktop
-DAX (Data Analysis Expressions)
-Power Query
-Excel (Data Source)
+* Power BI Desktop
+* DAX (Data Analysis Expressions)
+* Power Query
+* Excel (Data Source)
 
 📌 **Key Features**
 
-Interactive filters by quarter, state, and customer
-Drill-down capabilities for in-depth analysis
-Custom KPIs and calculations using DAX
-Data relationships and model creation
-Visualizations: bar chart, donut chart, line chart, clustered bar chart, slicers
+* Interactive filters by quarter, state, and customer
+* Drill-down capabilities for in-depth analysis
+* Custom KPIs and calculations using DAX
+* Data relationships and model creation
+* Visualizations: bar chart, donut chart, line chart, clustered bar chart, slicers
 
 📁 **Files**
 
-SNS_Sales_Dashboard.pbix – Power BI report file
-sales_data.xlsx – Sample sales dataset
-README.md – Project documentation (this file)
-dashboard_screenshot.png – Preview image of the dashboard
+* SNS_Sales_Dashboard.pbix – Power BI report file
+* sales_data.xlsx – Sample sales dataset
+* README.md – Project documentation (this file)
+* Dashboard_screenshot.png – Preview image of the dashboard
 
 🎯 **Objective**
 
